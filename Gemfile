@@ -24,6 +24,7 @@ gem 'jquery-rails'
 gem 'execjs'
 gem 'therubyracer'
 
+gem 'bcrypt-ruby', '~>3.0.0'
 gem 'will_paginate', '~>3.0'
 
 
